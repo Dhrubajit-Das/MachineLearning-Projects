@@ -1,0 +1,4 @@
+To view the project reports, follow the links below:
+
+1. Data Analysis  : http://dhrubajitdas44.blogspot.in/2017/11/machine-learning-project-2-adult-income.html
+2. Model Building : http://dhrubajitdas44.blogspot.in/2017/11/machine-learning-project-2-adult-income_6.html
